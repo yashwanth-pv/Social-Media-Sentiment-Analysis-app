@@ -1,4 +1,4 @@
-# Social Media Sentiment Analysis — App Guide (https://social-media-sentiment-analysis-app-0.streamlit.app/)
+# [Social Media Sentiment Analysis — App Guide] (https://social-media-sentiment-analysis-app-0.streamlit.app/)
 
 This Streamlit app analyzes sentiment (**positive / neutral / negative**) for social media text using **VADER**.
 
