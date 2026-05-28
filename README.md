@@ -2,6 +2,8 @@
 
 This Streamlit app analyzes sentiment (**positive / neutral / negative**) for social media text using **VADER**.
 
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/0af6154de158c39ee9c4774746fd1d7aa041d322/Screenshot%202026-05-28%20155439.png)
+
 ## 1) Analyze text
 1. Open the **Analyze text** tab
 2. Paste a post/tweet/comment
