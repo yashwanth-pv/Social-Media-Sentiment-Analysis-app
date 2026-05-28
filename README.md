@@ -14,6 +14,8 @@ You’ll get:
 - Compound score (from -1 to +1)
 - Score breakdown details
 
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/46e7b59bd5797a3e73d37fd212cef06ffd5dd5dd/Screenshot%202026-05-28%20155534.png)
+
 ## 2) Analyze uploaded files
 Open the **Upload files** tab and upload any of these:
 
@@ -27,6 +29,8 @@ Open the **Upload files** tab and upload any of these:
 - **PDF** (`.pdf`) — extracts text from pages
 - **DOCX** (`.docx`) — extracts paragraph text
 
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/563b9d0ff7801b7ef5a9433555c07d080f344275/Screenshot%202026-05-28%20163947.png)
+
 After analysis, you’ll see:
 - Results table preview
 - Multiple **interactive charts** (zoom/pan, hover tooltips, legend toggles)
@@ -38,3 +42,9 @@ After analysis, you’ll see:
 - **Histogram**: score distribution
 - **Box plot**: score distribution by sentiment
 - **Trend line (auto)**: appears if a date/time column exists (e.g., `date`, `timestamp`, `created_at`)
+
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/563b9d0ff7801b7ef5a9433555c07d080f344275/Screenshot%202026-05-28%20155720.png)
+
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/563b9d0ff7801b7ef5a9433555c07d080f344275/Screenshot%202026-05-28%20155733.png)
+
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/563b9d0ff7801b7ef5a9433555c07d080f344275/Screenshot%202026-05-28%20155747.png)
