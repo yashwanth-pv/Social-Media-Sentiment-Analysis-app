@@ -47,4 +47,4 @@ After analysis, you’ll see:
 
 ![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20155733.png)
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20155747.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/999c88872b2c61e7d393c8a7d885b5948c1e1d4e/Outputs/Screenshot%202026-05-28%20155798.png)
