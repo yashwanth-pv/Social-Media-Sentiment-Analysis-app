@@ -2,7 +2,7 @@
 
 This Streamlit app analyzes sentiment (**positive / neutral / negative**) for social media text using **VADER**.
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20155439.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235249.png)
 
 ## 1) Analyze text
 1. Open the **Analyze text** tab
@@ -14,7 +14,7 @@ You’ll get:
 - Compound score (from -1 to +1)
 - Score breakdown details
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20155534.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235404.png)
 
 ## 2) Analyze uploaded files
 Open the **Upload files** tab and upload any of these:
@@ -29,12 +29,14 @@ Open the **Upload files** tab and upload any of these:
 - **PDF** (`.pdf`) — extracts text from pages
 - **DOCX** (`.docx`) — extracts paragraph text
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20163947.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235445.png)
 
 After analysis, you’ll see:
 - Results table preview
 - Multiple **interactive charts** (zoom/pan, hover tooltips, legend toggles)
 - A **Download results as CSV** button
+
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235523.png)
 
 ## Charts
 - **Bar chart**: sentiment counts
@@ -43,8 +45,8 @@ After analysis, you’ll see:
 - **Box plot**: score distribution by sentiment
 - **Trend line (auto)**: appears if a date/time column exists (e.g., `date`, `timestamp`, `created_at`)
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20155559.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235702.png)
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/d8c187c6573c4475c48aec6f459bedf4f3bbc5da/Outputs/Screenshot%202026-05-28%20155733.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235741.png)
 
-![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/999c88872b2c61e7d393c8a7d885b5948c1e1d4e/Outputs/Screenshot%202026-05-28%20155798.png)
+![image alt](https://github.com/yashwanth-pv/Social-Media-Sentiment-Analysis-app/blob/f3a2eb78a4d1f7c7022e8e431e57661b2d17f0f2/Outputs/Screenshot%202026-05-28%20235752.png)
